@@ -23,7 +23,7 @@ Cada modulo de material que nos interese nos digiremos a la seccion de API para 
 
 Luego en overview podremos ver los ejemplos para estilar los componentes
 
-![](./readme-static/module-material.png)
+![](./readme-static/atrib.png)
 
 Como vemos hay muchos modulos de material por lo que es conveniente mantener las importaciones en un archivo separado **material.module.ts**
 
